@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @seanstephen98
 - 👀 I’m interested in learning how git works to make my life easier and code from anywhere
-- 🌱 I’m currently learning Java and HTML
-- 💞️ I’m looking to collaborate on --- not sure what I can do yet, just want to learn more first
+- 🌱 I’m currently learning Ethical Hacking and Contemporary Topics in Security
 - 📫 How to reach me : seanstephen98@gmail.com
 
 <!---
